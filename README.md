@@ -37,15 +37,15 @@
 
 ### 📌 Proyectos Destacados
 
-- 💻 **[Cotizador de Criptomonedas con React]((https://github.com/DenzelRdz/cripto-reactjs))**  
+- 💻 **[Cotizador de Criptomonedas con React](https://github.com/DenzelRdz/cripto-reactjs)**  
   En este proyecto trabajé con Zod para tipar los resultados de la API y Zustand para el manejo de los estados globales de la aplicación
   Y usé axios para el fetch de datos hacia la API
 
-- 📱 **[Buscador de Clima]((https://github.com/DenzelRdz/clima-react-ts))**  
+- 📱 **[Buscador de Clima](https://github.com/DenzelRdz/clima-react-ts)**  
   En este proyecto trabajé con CSS Modules, Hooks y haciendo llamadas a una API con axios
   Además de utilizar zod para tipar mejor el resultado de la API
 
-- 🧠 **[Juego de memoria en JavaScript](https://github.com/DenzelRdz/control-gastos-contextapi)**  
+- 🧠 **[Aplicación Web Control de Gastos](https://github.com/DenzelRdz/control-gastos-contextapi)**  
   Proyecto de Control de Gastos con ReactJS
 En este proyecto aprendí a trabajar con contextapi para el estado global de la aplicación, además de aprender mejor el manejo de formularios
 
