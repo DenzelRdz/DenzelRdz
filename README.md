@@ -1,48 +1,54 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/denzeldaniel/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:denzeldaniel03@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
 
-###
+<h1 align="center">Hola, soy Denzel Daniel 👋</h1>
 
-<h1 align="center">Hola, Mi nombre es Denzel Daniel</h1>
+### 👨‍💻 Sobre mí
 
-###
+- 📍 Originario de Nuevo León, México  
+- 🧠 Actualmente aprendiendo más sobre JavaScript y tecnologías modernas  
+- 💼 Apasionado por el desarrollo web y móvil  
+- 🎧 Me encanta escuchar música en mi tiempo libre  
+- 🚀 En constante búsqueda de nuevos retos y aprendizaje
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Soy de Nuevo León, México<br><br>- 📚 Estoy aprendiendo JavaScript<br>- ⚡ Me gusta escuchar música en mi tiempo libre</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠 Tecnologías y herramientas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
 </div>
 
-###
+### 📌 Proyectos Destacados
+
+- 💻 **[Gestor de Tareas con React](https://github.com/denzeldaniel/todo-app-react)**  
+  Aplicación de tareas con manejo de estado, componentes reutilizables y almacenamiento local.
+
+- 📱 **[App móvil con Flutter](https://github.com/denzeldaniel/flutter-app)**  
+  Interfaz moderna y responsive, ideal para usuarios en dispositivos móviles.
+
+- 🧠 **[Juego de memoria en JavaScript](https://github.com/denzeldaniel/memory-game)**  
+  Proyecto divertido con lógica basada en DOM y programación orientada a eventos.
+
+- 🐍 **[Automatización con Python](https://github.com/denzeldaniel/python-automation)**  
+  Scripts útiles para tareas cotidianas como organización de archivos y análisis de datos.
+
+---
+
+💬 ¿Quieres colaborar? ¡Estoy abierto a proyectos interesantes!
